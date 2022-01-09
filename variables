@@ -1,0 +1,7 @@
+# setx.exe does not set the environment variable in the current command prompt, but it will be available in subsequent command prompts
+setx BROWSERSTACK_USERNAME "dushankatasheva2"
+setx BROWSERSTACK_ACCESS_KEY "qFmc7NyzTMA5bbQRyZSc"
+
+# Verify whether the variables have been set
+echo BROWSERSTACK_USERNAME
+echo BROWSERSTACK_ACCESS_KEY
